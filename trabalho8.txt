@@ -1,0 +1,9 @@
+teste1.txt
+trabalho.txt
+trabalho2.txt
+trabalho8.txt.txt
+teste1.txt
+trabalho.txt
+trabalho2.txt
+trabalho8.txt
+trabalho8.txt.txt
